@@ -1,0 +1,22 @@
+{
+  "participants": {
+    "agent": "019b61cc-8bb6-7d60-8f44-aedff0bce00a"
+  },
+  "results": [
+    {
+      "pass_rate": 0.0,
+      "time_used": 0.0,
+      "max_score": 1
+    },
+    {
+      "pass_rate": 0.0,
+      "time_used": 0.0,
+      "max_score": 1
+    },
+    {
+      "pass_rate": 0.0,
+      "time_used": 0.0,
+      "max_score": 1
+    }
+  ]
+}
