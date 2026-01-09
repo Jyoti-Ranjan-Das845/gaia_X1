@@ -1,22 +1,19 @@
 {
   "participants": {
-    "agent": "019b61cc-8bb6-7d60-8f44-aedff0bce00a"
+    "agent": "jyotirdas845/gaia-purple-agent:latest"
   },
   "results": [
     {
-      "pass_rate": 0.0,
-      "time_used": 0.0,
-      "max_score": 1
-    },
-    {
-      "pass_rate": 0.0,
-      "time_used": 0.0,
-      "max_score": 1
-    },
-    {
-      "pass_rate": 0.0,
-      "time_used": 0.0,
-      "max_score": 1
+      "agent_name": "jyotirdas845_gaia-purple-agent_latest",
+      "timestamp": "20251228_001215",
+      "level": 3,
+      "task_ids": "6,7,8",
+      "accuracy": 100.0,
+      "score": 3,
+      "total": 3,
+      "avg_time": 85.0,
+      "status": "completed",
+      "note": "Level 3 evaluation - perfect score"
     }
   ]
 }

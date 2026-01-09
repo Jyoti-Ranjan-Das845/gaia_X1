@@ -1,0 +1,19 @@
+{
+  "participants": {
+    "agent": "jyotirdas845/gaia-purple-agent:latest"
+  },
+  "results": [
+    {
+      "agent_name": "jyotirdas845_gaia-purple-agent_latest",
+      "timestamp": "20251228_003545",
+      "level": 1,
+      "task_ids": "9,10,11",
+      "accuracy": 33.3,
+      "score": 1,
+      "total": 3,
+      "avg_time": 120.5,
+      "status": "completed",
+      "note": "Level 1 evaluation - additional run"
+    }
+  ]
+}
