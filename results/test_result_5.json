@@ -1,0 +1,19 @@
+{
+  "participants": {
+    "agent": "jyotirdas845/gaia-purple-agent:latest"
+  },
+  "results": [
+    {
+      "agent_name": "jyotirdas845_gaia-purple-agent_latest",
+      "timestamp": "20251228_101520",
+      "level": 2,
+      "task_ids": "12,13,14",
+      "accuracy": 50.0,
+      "score": 1,
+      "total": 3,
+      "avg_time": 105.8,
+      "status": "completed",
+      "note": "Level 2 evaluation - partial success"
+    }
+  ]
+}
